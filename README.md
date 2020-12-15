@@ -1,4 +1,3 @@
-### Hello I'm Kamlesh Gaderiya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Kamlesh Gaderiya, a student of Guru Nanak Institutions Technical Campus pursuing B.Tech in Computer Science Engineering. I have been attending Web Development training by ADOBE. I have been doing my Intership in MANAC INFOtech.
 
