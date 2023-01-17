@@ -5,7 +5,8 @@ I'm Kamlesh Gaderiya, a student of Guru Nanak Institutions Technical Campus purs
 
 [![Twitter Badge](https://img.shields.io/badge/-@Kamlesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PalKamlesh34)](https://twitter.com/PalKamlesh34) [![Linkedin Badge](https://img.shields.io/badge/-Kamlesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-gaderiya-703011148/) [![Mail Badge](https://img.shields.io/badge/-@Kamlesh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/kamlesh88125/) [![Mail Badge](https://img.shields.io/badge/-Kamlesh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kamlesh88125@gmail.com)
 
-- 🔭 I’m currently working on DJANGO 
+- 🔭 I’m currently working in ValueMomentum Software Services Pvt. Ltd.
+- 🔭 I have completed Data science with Python and Tableau certification.    
 - 🌱 I’m currently learning web Development.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with MANAC INFOtech
